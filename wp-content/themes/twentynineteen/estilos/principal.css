@@ -48,10 +48,7 @@ ul li h5 {
 }
 
 body {
-    background-image: linear-gradient(
-      rgba(25, 209, 231, 0.5),
-      rgba(0, 0, 0, 0)
-    ),url(https://s2.best-wallpaper.net/wallpaper/1920x1080/1201/Forest-tree-sun_1920x1080.jpg);
+    background-image: linear-gradient( rgba(25, 29, 231, 0.5), rgba(0, 0, 0, 0) ),url(https://s2.best-wallpaper.net/wallpaper/1920x1080/1201/Forest-tree-sun_1920x1080.jpg);
 }
 
 #imagen {
