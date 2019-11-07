@@ -1,0 +1,95 @@
+/* cabecera */
+a{
+   text-decoration: none;
+   color: #fff !important;
+
+}
+
+
+ul li{
+
+    list-style: none;
+    
+}
+
+ul li h5 {
+    
+    padding-left:1%;
+    display: inline;
+    font-size: 20px !important;
+    
+}
+
+.fab {
+    color: #fff;
+    font-size: 30px;
+}
+
+.margen{
+    
+    padding-right: 1px;
+    
+}
+
+#tituloweb .icono {
+    position: relative;
+    top: 10% !important;
+    width: 50px;
+}
+
+<<<<<<< HEAD
+
+#tituloweb {
+    margin: 0 auto;
+    display: table;
+=======
+#tituloweb {
+    margin: 0 auto;
+    display: table;
+    padding-right: 4%;
+}
+
+.bg-info {
+    background-color: #dc3545 !important;
+}
+
+body {
+    background-image: linear-gradient(
+      rgba(25, 209, 231, 0.5),
+      rgba(0, 0, 0, 0)
+    ),url(https://s2.best-wallpaper.net/wallpaper/1920x1080/1201/Forest-tree-sun_1920x1080.jpg);
+ 
+>>>>>>> subo prueba
+}
+
+
+#imagen {
+    width: 34%;
+    margin: 0 auto;
+    display: table;
+    border: 1px solid;
+    margin-top: 6%;
+    margin-bottom: 1%;
+}
+
+#boton{
+    margin-top: 3%;
+}
+
+#descargar{
+    margin: 0 auto;
+    display: table;
+    margin-top: 6%;
+    width: 645px;
+}
+
+#texto {
+    text-align: center;
+    margin-top: 5%;
+}
+
+#texto {
+    font-family: 'Yeon Sung', cursive;
+    font-size: 31px;
+    color: #fff;
+}
